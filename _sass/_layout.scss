@@ -10,7 +10,6 @@
     position: relative;
 
     background-color: #000000;
-    color: #ff0000;
 }
 
 .site-title {
@@ -22,7 +21,8 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        //color: $grey-color-dark;
+        color: $white-color;
     }
 }
 
