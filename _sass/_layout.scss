@@ -75,11 +75,13 @@
         .trigger {
             clear: both;
             display: none;
+            color: $white-color;
         }
 
         &:hover .trigger {
             display: block;
             padding-bottom: 5px;
+            color: $white-color;
         }
 
         .page-link {
